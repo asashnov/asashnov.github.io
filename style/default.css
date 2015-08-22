@@ -1,0 +1,92 @@
+/* site layout, two column design */
+
+body {
+    color: black;
+    background: silver; 
+  }
+
+div#header {
+    border-bottom: 1px solid #000;
+  }
+div#nav {   /* left */
+    float:left; 
+    width: 125pt;
+  }
+div#main {   /* right */
+    margin-left: 125pt;
+    /* float: left; */
+  }
+
+div#footer {
+    clear: both;
+    margin-top: 2em;
+  }
+
+
+
+
+/* boxes */
+
+.links {
+/*	clear: both;
+	border: solid 1px #FF3535;
+	padding: 1em;                 */
+}
+
+.downloads {
+/*	clear: both;
+	border: solid 1px #35FF35;
+	padding: 1em;                 */
+}
+
+.pict {
+    float: right;
+    padding: 1em;
+  }
+
+ul.menu {
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-left: 2em;
+	list-style-image: url(images/bullet.png);
+	list-style-position: outside;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: small;
+}
+
+li.linkgroup {
+  list-style: none;
+  margin-top: 12pt;
+}
+
+td {
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+
+
+
+/* items */
+
+:link { color: #00C; background: transparent }
+:visited { color: #609; background: transparent }
+a:active { color: #C00; background: transparent }
+
+img { border: 0px; }
+
+
+
+
+
+/* fonts */
+
+span.date {
+    /* Date text in projects history */
+    color:red;
+  }
+
+span.red {
+    /* Red text color for "New!" label */
+    color:red;
+  }

@@ -1,0 +1,70 @@
+  Sashnov Alexander's homepage
+  
+This is a source of my homepage. It also need symlink for directory
+'files' and 'img' to dir contains files and images for page.
+
+
+  Building
+  
+For build it you must have installed folowwing programs:
+
+make		GNU make utilite
+bash		Shell (or any other shell like sh)
+m4		GNU macroprocessor
+awk		GNU awk interpreter (gawk)
+ImageMagick	Image processing tool
+
+
+Build all project:
+
+  make clean
+  make
+
+Archive it (buck up or distrib):
+
+  make dist
+
+Check local links:
+
+  make check
+
+Update page in internet through FTP:
+
+  make update
+
+
+
+Some comments
+
+
+* recode to 1251 needs for hosting on newmail.ru - it puts information about document encode in
+http header:
+
+HTTP/1.0 200 OK
+Date: Sat, 17 Jan 2004 07:22:36 GMT
+Server: Apache/1.3.27 (Unix)
+Last-Modified: Sat, 03 Jan 2004 06:47:38 GMT
+ETag: "3cc9f0-1aee-3ff6658a"
+Accept-Ranges: bytes
+Content-Length: 6894
+Content-Type: text/html; charset=windows-1251
+X-Cache: MISS from ns.plesk.ru
+Connection: keep-alive
+
+Becouse I add recode to exceed validator.w3c.org warning.
+
+
+* You cat configure ftp (standart ftp client) for automaticaly update your files.
+For do this, create .netrc file in your home dir with contents:
+
+ine ftp.newmail.ru
+login sashnov.nm.ru
+password d2k_75fh3_1x
+macdef init
+lcd /home/asashnov/projects/homepage
+put about.html
+put ayengine.html
+......put other files.........
+exit
+
+

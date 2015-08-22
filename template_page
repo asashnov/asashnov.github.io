@@ -1,0 +1,27 @@
+m4_include(m4lib.inc)
+
+_HEADER({{Title}},
+	{{description}},
+	{{keywords}})
+
+_NAV
+
+_H2(Header)
+
+_PICT(pict.png, alt text)
+
+_TEXT({{
+
+Page text
+
+}})
+
+_DOWNLOADS_BEGIN
+_DOWNLOADS_ITEM(file.zip, description)
+_DOWNLOADS_END
+
+_LINKS_BEGIN
+_LINKS_ITEM(http://example.com, description)
+_LINKS_END
+
+_FOOTER
