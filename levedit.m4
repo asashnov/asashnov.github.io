@@ -1,8 +1,8 @@
 m4_include(m4lib.inc)
 
 _HEADER({{level editor}},
-	{{Редактор уровней Level Editor}},
-	{{LevelEditor Level Editor Сашнов game develop редактор уровней}})
+	{{п═п╣п╢п╟п╨я┌п╬я─ я┐я─п╬п╡п╫п╣п╧ Level Editor}},
+	{{LevelEditor Level Editor п║п╟я┬п╫п╬п╡ game develop я─п╣п╢п╟п╨я┌п╬я─ я┐я─п╬п╡п╫п╣п╧}})
 
 _NAV
 

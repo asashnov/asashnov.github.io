@@ -31,17 +31,17 @@ _LINKS_ITEM(http://sourceforge.net/projects/cube/,
   {{ 3D game engine and multiplayer/singleplayer FPS game}})
 
 _LINKS_ITEM(http://libsdl.org/,
-  {{ Сайт кросс платформенной библиотеки SDL для создания игр и эмуляторов. Рекомендую.}})
+  {{ п║п╟п╧я┌ п╨я─п╬я│я│ п©п╩п╟я┌я└п╬я─п╪п╣п╫п╫п╬п╧ п╠п╦п╠п╩п╦п╬я┌п╣п╨п╦ SDL п╢п╩я▐ я│п╬п╥п╢п╟п╫п╦я▐ п╦пЁя─ п╦ я█п╪я┐п╩я▐я┌п╬я─п╬п╡. п═п╣п╨п╬п╪п╣п╫п╢я┐я▌.}})
 
 _LINKS_ITEM(http://sourceforge.net/,
   Free hostingfresh for open source software- bugtracker, version control and other services
   for your project for free.)
 
 _LINKS_ITEM(http://gamedev.ru/,
- {{ Крупнейший русскоязычный рессурс по программированию игр.}})
+ {{ п я─я┐п©п╫п╣п╧я┬п╦п╧ я─я┐я│я│п╨п╬я▐п╥я▀я┤п╫я▀п╧ я─п╣я│я│я┐я─я│ п©п╬ п©я─п╬пЁя─п╟п╪п╪п╦я─п╬п╡п╟п╫п╦я▌ п╦пЁя─.}})
 
 _LINKS_ITEM(http://pmg.org.ru/,
-  {{ Программирование магических игр. Большое собрание переводов, документации, файлов.}})
+  {{ п÷я─п╬пЁя─п╟п╪п╪п╦я─п╬п╡п╟п╫п╦п╣ п╪п╟пЁп╦я┤п╣я│п╨п╦я┘ п╦пЁя─. п▒п╬п╩я▄я┬п╬п╣ я│п╬п╠я─п╟п╫п╦п╣ п©п╣я─п╣п╡п╬п╢п╬п╡, п╢п╬п╨я┐п╪п╣п╫я┌п╟я├п╦п╦, я└п╟п╧п╩п╬п╡.}})
 
 _LINKS_ITEM(http://www.koders.com/,
   Koders - Source Code Search Engine)

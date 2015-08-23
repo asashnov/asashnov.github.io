@@ -1,7 +1,7 @@
 m4_include(m4lib.inc)
 
 _HEADER({{danger dungeon}},
-	{{Игра типа Loderunner}},
+	{{Loderunner type game}},
 	{{danger dungeon lode runner game}})
 
 _NAV

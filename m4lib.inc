@@ -84,7 +84,7 @@ m4_dnl  -------- page layout -------
 
 m4_dnl _HEADER(title, description, keywords)
 m4_define(_HEADER, {{---
-title: $1 - The Sashnov Alexander's home page
+title: $1
 description: $2
 keywords: $3
 layout: default
