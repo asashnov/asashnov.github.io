@@ -1,0 +1,19 @@
+# Site settings, available as {{ site.<> }}
+title: Alexander Sashnov's home page
+email: sashnov@ngs.ru
+baseurl: ""
+url: "http://asashnov.github.io/"
+github_username:  asashnov
+current_year: 2015
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
