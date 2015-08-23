@@ -1,52 +1,47 @@
-m4_include(m4lib.inc)
+---
+title: about
+description: Alexander Sashnov's home page
+keywords: sashnov SDL C++ programming
+layout: default
+---
 
-_HEADER({{about}},
-	{{The Sashnov's Alexander home page}},
-	{{sashnov SDL C++ programming}})
-
-_NAV
-
-_H2(Hello!)
+<h2>
+Hello!
+</h2>
 
 _IMAGE(my_photo3.jpg, My foto)
 
-
-_TEXT({{
-
+<p>
 My name is Alexander Sashnov. Welcome to my homepage.
+</p>
 
-}})
-
-_TEXT({{
-
-I living in 
+<p>
+I live in 
 <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=Novosibirsk,+Russia&amp;ie=UTF8&amp;ll=55.040024,82.929955&amp;spn=0.126691,0.374222&amp;t=k&amp;om=1">Novosibirsk, Russia</a>
-and now I working in _LINK(http://swsoft.com/, SWsoft inc),
-software developer.
-}})
+and I work at _LINK(http://jetico.com/, Jetico Inc, Oy)
+as a software developer.
+</p>
 
-_TEXT({{
-
-In my free time I improving my programming skills and upgrade my knowleges
+<p>
+In my spare time I improve my programming skills, upgrade my knowlege
 by reading books, tutorials and by writing small programms.
+</p>
 
+<p>
 Many of results and usefull links I put into this page for anyone
 who interesting it too.
-}})
+</p>
 
-_TEXT({{
+<p>
 You can send me any comments, suggestions and others via
 _MAILME(e-mail) or _LINK(xmpp://asashnov@jabber.ru, Jabber).<br />
-Use my _LINK(files/my_gpg_public.key,{{GPG key}}) for privacy.
-}})
+Use my _LINK(files/my_gpg_public.key, GPG key) for privacy.
+</p>
 
+{% include linux_registered.html %}
 
-_LINUX_REGISTERED
+{% include get_firefox.html %}
 
-_GET_FIREFOX
+{% include get_openoffice.html %}
 
-_GET_OPENOFFICE
-
-_COUNTER
-
-_FOOTER
+{% include counter.html %}
