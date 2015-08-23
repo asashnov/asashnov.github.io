@@ -1,0 +1,12 @@
+<div id="nav">
+ <ul class="menu">
+    {% for page in site.pages %}
+      {% if page.title %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+ </ul>
+</div>
+
+<!-- main article content should be here -->
+<div id="main">
