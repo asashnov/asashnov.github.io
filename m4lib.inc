@@ -38,15 +38,18 @@ m4_define(_ALT, m4_pushdef({{_tmp}}, {{$2}})m4_ifdef({{_tmp}}, {{alt="[$2]"}}, {
 m4_define(_IMAGE, {{<img class="pict" src="img/$1" m4_esyscmd({{sh imgsize.sh img/$1}})
       _ALT({{$1}}, {{$2}}) /> }})
 
-m4_define(_H1, {{$1
+m4_define(_H1, {{
+$1
 -
 }})
 
-m4_define(_H2, {{$1
+m4_define(_H2, {{
+$1
 --
 }})
 
-m4_define(_H3, {{$1
+m4_define(_H3, {{
+$1
 ---
 }})
 
