@@ -7,8 +7,8 @@ if [ ! -f "$1" ] ; then
   exit 1
 fi
 
-mogrify -verbose $1 2>/dev/null \
-    | awk '{ split($3,a,"[+x]") ;\
+identify -verbose $1 2>/dev/null \
+    | awk '/  Geometry: / { split($2,a,"[+x]") ;\
              print "width=\"" a[1] "\" height=\"" a[2] "\"" ; \
              exit ; \
            }'
