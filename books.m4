@@ -34,4 +34,12 @@ Authors describe a lot of aspects of object-oriented programming
 which is usefull in any application development.
 }})
 
+_TEXT({{
+_STRONG({{Scott Maxwell, Linux kernel in commentaries.}}) <br/>
+This was an interesting book about internals of Linux 2.4
+2/3 of this book is printed kernel source code. Some code is still there
+in Linux 4.0 !
+}})
+
+
 _FOOTER
