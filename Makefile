@@ -21,5 +21,3 @@ pages: $(PAGES)
 clean:
 	rm $(PAGES)
 
-#check: pages
-#	for i in  $(PAGES) ; do tidy -eq $$i ; done

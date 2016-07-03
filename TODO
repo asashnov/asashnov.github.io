@@ -17,3 +17,32 @@
 
  * add sloccount statistic to source archives, language and API description
 
+ * review  books.m4 and Private/Notes/books.txt
+ 
+
+
+
+BEGIN:VTODO
+UID:palm-todo-002d3091-76b099c8-Alex@sashnov
+DTSTAMP:20100227T043911Z
+CATEGORIES:Projects
+SUMMARY:hp:
+DESCRIPTION:hp:
+
+old projects- all to separate page, not actual
+palm - bad rock of proprietary OS
+openmoko - free phone
+uniconverter - corel to svg
+jabber - free IM (Google Talk, Talkonaut)
+debian - never out of buisness,
+ubuntu - human linux
+
+create ubuntu packages DVD
+buy linux distributions page
+linux perfomance tweak   http://www.linuxforums.org/desktop/
+linux_performance_tuning.html http://oprofile.sourceforge.net/doc/overview.html#getting-started
+http://ubuntuforums.org/showthread.php?t=189192   - Improve performance in Ubuntu
+
+
+
+

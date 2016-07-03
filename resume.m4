@@ -8,6 +8,6 @@ _NAV
 
 _H1(Resume)
 
-
+http://sashnov.moikrug.ru/
 
 _FOOTER
