@@ -27,23 +27,19 @@ ImageMagick	Image processing tool
 
    See for help: https://github.com/jekyll/docker/wiki
        https://github.com/jekyll/docker/wiki/Usage:-Running
-   
-4. Build and run
-
-  make clean
-  make
-
-  docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
-    -it -p 127.0.0.1:4000:4000 jekyll/jekyll:pages
 
 
-5. Open in browser http://localhost:4000/
-
-
+https://jekyllrb.com/help/
+   Links to sites on Jekyll with sources:
+       https://github.com/jekyll/jekyll/wiki/sites
+         http://cyborginstitute.org/  already switched to Sphinx 1.2.3 & Alabaster 0.6.2
+              https://github.com/bitprophet/alabaster
+              
 
 https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
 https://github.com/jekyll/jekyll
 https://github.com/jekyll/jekyll-help
+https://github.com/jekyll/docker   - Official Docker container
 https://jekyllrb.com/
 http://jekyllrb.com/docs/structure/
 
