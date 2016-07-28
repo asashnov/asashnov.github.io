@@ -20,14 +20,6 @@ awk		GNU awk interpreter (gawk)
 ImageMagick	Image processing tool
 
 
-2. install Docker: https://docs.docker.com/engine/installation/
-
-3. docker pull jekyll/jekyll:pages
-   ( :pages tag is the closest to GitHub Pages version)
-
-   See for help: https://github.com/jekyll/docker/wiki
-       https://github.com/jekyll/docker/wiki/Usage:-Running
-
 
 https://jekyllrb.com/help/
    Links to sites on Jekyll with sources:
