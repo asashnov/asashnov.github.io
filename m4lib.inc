@@ -73,13 +73,17 @@ m4_define(_LAST_UPDATE, {{Last update: m4_esyscmd(LANG=C date '+%d %b %Y') }})
 
 m4_dnl  -------- boxes -------
 
-m4_define(_DOWNLOADS_BEGIN,<div class="downloads">_H2(Downloads))
-m4_define(_DOWNLOADS_ITEM, {{_LINK_TO_FILE($1) - $2<br />}})
-m4_define(_DOWNLOADS_END, {{</div>}})
+m4_define(_DOWNLOADS_BEGIN, {{
+## Downloads
+}})
+m4_define(_DOWNLOADS_ITEM, {{ - _LINK_TO_FILE($1) - $2<br />}})
+m4_define(_DOWNLOADS_END, {{  }})
 
-m4_define(_LINKS_BEGIN, {{<div class="links">_H2(Links) }})
-m4_define(_LINKS_ITEM, {{_SELFLINK($1) - $2 <br /><br /> }})
-m4_define(_LINKS_END, {{</div> }})
+m4_define(_LINKS_BEGIN, {{
+## Links
+}})
+m4_define(_LINKS_ITEM, {{ - _SELFLINK($1) - $2 <br /><br /> }})
+m4_define(_LINKS_END, {{  }})
 
 
 
