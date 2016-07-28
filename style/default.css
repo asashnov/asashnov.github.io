@@ -48,7 +48,6 @@ ul.menu {
 	margin-top: 0px;
 	margin-left: 0px;
 	padding-left: 2em;
-	list-style-image: url(images/bullet.png);   /* just to hide standard ulist bullets */
 	list-style-position: outside;
 	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
 	font-weight: bold;
