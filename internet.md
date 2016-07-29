@@ -3,22 +3,22 @@ title: internet
 description: Using internet
 keywords: web design with standards w3c
 layout: default
+category: platforms
 ---
  
 Internet
 --
- 
-Internet is the very big network with many of flowers of
-hardware and software peaces. For it can work successfully
-together it is neccessary to follow standards. Here links to
-some of them:
+
+Internet combines very large variety of different hardware and software
+so in order it can work all together the standards was developed
+and maintained.
+
+Here are links to some of them:
  
 ## Links
- - <a href="http://w3c.org/">http://w3c.org/</a> -  W3C - The World Wide Web Consortium. <br /><br /> 
- - <a href="http://www.rfc-editor.org/">http://www.rfc-editor.org/</a> -  Refferences for Comments  <br /><br /> 
- - <a href="http://meyerweb.com/eric/css/edge/menus/demo.html">http://meyerweb.com/eric/css/edge/menus/demo.html</a> -  Example how to make "pure CSS" menus.  <br /><br /> 
- - <a href="http://jabber.org/">http://jabber.org/</a> - Jabber (XMPP) Instant Messaging system <br /><br /> 
- - <a href="http://jabber.ru/">http://jabber.ru/</a> - Jabber russian portal <br /><br /> 
- - <a href="http://openwengo.com/">http://openwengo.com/</a> - Wengo - Free SIP internet phone <br /><br /> 
-  
- 
+ - <a href="http://w3c.org/">http://w3c.org/</a> -  W3C - The World Wide Web Consortium.
+ - <a href="http://www.rfc-editor.org/">http://www.rfc-editor.org/</a> -  Refferences for Comments 
+ - <a href="http://meyerweb.com/eric/css/edge/menus/demo.html">http://meyerweb.com/eric/css/edge/menus/demo.html</a> -  Example how to make "pure CSS" menus. 
+ - <a href="http://jabber.org/">http://jabber.org/</a> - Jabber (XMPP) Instant Messaging system
+ - <a href="http://jabber.ru/">http://jabber.ru/</a> - Jabber russian portal
+ - <a href="http://openwengo.com/">http://openwengo.com/</a> - Wengo - Free SIP internet phone

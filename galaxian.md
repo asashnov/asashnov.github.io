@@ -4,26 +4,28 @@ description: Space shooter- Galaxian
 keywords: galaxian directx
 layout: default
 category: projects
+timeline: Aug 2000
 ---
  
-galaxian
+Galaxian
 --
+
 ![Galaxian screenshot](img/galaxian.png) 
  
 Simple cosmic shooter game written in Borland C++ Builder
-and pure DirectX API long time ago in education purpuse.
-This is first my playable game for PC.
-Source code of this game is the night mare. I try to port it
-to SDL and was fail.
-Possible I rewrite it in C++/SDL or Pyton/PyGame soon.
- 
- 
+using pure DirectX API at the time I was getting myself familiar with the API in 2000. 
+This was my first my playable game for PC.
+Source code of this game is the night mare. I tryed to port it to SDL and failed
+because couldn't understand my _spagetty code_
+
+Possible I will rewrite it with C++/SDL or Pyton/PyGame one day.
+
 Platform: Windows, DirectX
  
-## Downloads
- - <a href="files/galaxian-exe.zip">galaxian-exe.zip
-  (500 Kb)</a>   - win32 executable and arts<br />
- - <a href="files/galaxian-1.1-src.zip">galaxian-1.1-src.zip
-  (20 Kb)</a>   - source code<br />
-  
- 
+Downloads
+---
+
+ - <a href="files/galaxian-exe.zip">galaxian-exe.zip (500 Kb)</a>
+    win32 executable and art works
+ - <a href="files/galaxian-1.1-src.zip">galaxian-1.1-src.zip (20 Kb)</a>
+    source code

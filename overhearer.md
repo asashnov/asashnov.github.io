@@ -23,30 +23,29 @@ Overhearer
  
 ## Downloads
  - <a href="files/overhearer-exe.zip">overhearer-exe.zip
-  (312 Kb)</a>   - executable for win32<br />
+  (312 Kb)</a>   - executable for win32
+
  - <a href="files/overhearer-src.zip">overhearer-src.zip
-  (12 Kb)</a>   - source code for Builder C++ 5<br />
+  (12 Kb)</a>   - source code for Builder C++ 5
   
  
-Executable is big because standard VCL library is staticaly compiled.
+Executable is relatively big because Borland's VCL library is staticaly compiled.
 If you have Builder C++ 5 installed it is better to download and compile
-from source for safe your internet traffic.
- 
- 
-Under Linux you can easily use 'sox' programm for it:
- 
-<pre>
-# your ~/.bashrc:
-alias rec="sox -t ossdsp /dev/dsp ~/snd/date.gsm &amp;"
-alias stoprec="killall sox"
-</pre>
- 
-Do command 'rec' for start recording and 'stoprec' for stopping.
-You can run this command in console or, the better, in applet in KPannel
-or by Alt+F2 (in KDE).
+from source to save your internet traffic.
+
+Under Linux you may gain the same functionality using 'sox' programm:
+
+
+    # your ~/.bashrc:
+    alias rec="sox -t ossdsp /dev/dsp ~/snd/date.gsm &amp;"
+    alias stoprec="killall sox"
+
+Now start 'rec' command from your terminal to start recording.
+When it will be a time to stop execute 'stoprec' command.
+Instead of using Terminal you may just use single command execution feature
+of your desktop. Both KDE and Gnome have it via Alt+F2
  
 ## Links
- - <a href="http://virtualsoft.narod.ru">http://virtualsoft.narod.ru</a> - MiniRecorder- similar programm but executable is ~40 kb,
-    works fine under WinXP and write data directly to mp3. <br /><br /> 
-  
- 
+ - <a href="http://virtualsoft.narod.ru">http://virtualsoft.narod.ru</a> -
+    MiniRecorder - a similar programm but its executable is just ~40 kb,
+    works fine under WinXP and write data directly mp3 encoded. Love it!

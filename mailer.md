@@ -7,13 +7,16 @@ layout: default
  
 Simple Mailer
 --
-![Simple mailer screenshot](img/mailer.gif) 
+![Simple mailer screenshot](img/mailer.gif)
  
-Simple POP3/SMTP client written on Builder C++ components.
-Fit to put on floppy disk to run and work directly from floppy.
-Usefull for people who check mail on various computers.
- 
- 
+A simple POP3/SMTP client written over Builder C++ standard components.
+
+It fits to floppy disk by size and it is **portable** so can be run
+directly from floppy (at the time USB drives was not so common).
+
+It helped me a lot: it was so easy to insert my floppy disk into any
+computer in the lab at the university and read/reply at home.
+
 Почтовый клиент. Программа задумывалась как простой почтовый клиент, который 
 можно было бы записать на дискету и приходить с ней в места, где есть интернет 
 для проверки новой почты и отправления заранее написанных сообщений. Она будет 
@@ -21,14 +24,12 @@ Usefull for people who check mail on various computers.
 откуда придется.
  
 ## Downloads
- - <a href="files/mailer.zip">mailer.zip
-  (332 Kb)</a>   - Дистрибутив<br />
- - <a href="files/mailer-src.zip">mailer-src.zip
-  (44 Kb)</a>   - Исходники<br />
-  
-  Note: exacutable compressed with <b>PECompact</b>
+ - <a href="files/mailer.zip">mailer.zip (332 Kb)</a>   - Дистрибутив
+ - <a href="files/mailer-src.zip">mailer-src.zip (44 Kb)</a>   - Исходники
+
+  Note: exacutable is compressed by **PECompact**
  
 ## Links
- - <a href="http://sylpheed.good-day.net/en/">http://sylpheed.good-day.net/en/</a> -  Sylpheed is a simple, lightweight but featureful, and easy-to-use e-mail client.  <br /><br /> 
+ - <a href="http://sylpheed.good-day.net/en/">http://sylpheed.good-day.net/en/</a> -  Sylpheed is a simple, lightweight but featureful, and easy-to-use e-mail client. 
   
  

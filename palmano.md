@@ -9,22 +9,17 @@ Palmano (Palm Piano)
 --
 ![PalmOS system sound 'bird' in Palmano sound editor](img/palmano.png) 
  
-This project still in pre-alpha stage.
-I start writting it in Aug 2003 (month after I get Palm m105) but from
-Nov 2003 I (in same time) start work in SWsoft and spend time with my girl frien
-and amount of free time drammaticaly decreases.
- 
+This project is still in pre-alpha stage.
+I started writting it in Aug 2003 (month after I get Palm m105) but
+I was very busy in my personal life so I could find time to acomplish it.
  
 Platform: PalmOS 3.5
- 
- 
-This is system sound editor for PalmOS 3.5 with screen midi (piano form) keyboard.
-You may select note by tap on it and then save medoly to system and use it
-as alarm sound in clock or datebook application.
- 
-## Links
- - <a href="http://palm.com">http://palm.com</a> -  Home of manufacter of Palm devices  <br /><br /> 
- - <a href="http://sourceforge.net/softwaremap/trove_list.php?form_cat=223">http://sourceforge.net/softwaremap/trove_list.php?form_cat=223</a> -  project on SourceForge for PalmOS  <br /><br /> 
- - <a href="http://sourceforge.net/projects/pdbfile/">http://sourceforge.net/projects/pdbfile/</a> -  PDB file parsing C++ library for Linux  <br /><br /> 
   
- 
+This is system sound editor for PalmOS 3.5 with on-screen piano keyboard.
+Notes typed on screen goes into one-track MIDI file which can be used
+as a system sound for alarms.
+
+## Links
+ - [Palm devices manufacturer](http://palm.com/)
+ - [search project for PalmOS on SourceForge](http://sourceforge.net/softwaremap/trove_list.php?form_cat=223)
+ - [PDB file parsing C++ library for Linux](http://sourceforge.net/projects/pdbfile/)
