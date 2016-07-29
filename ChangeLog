@@ -9,3 +9,5 @@
 	
 	* Makafile now is more simple, makehtml.sh script contains some
 	build functions
+
+Further changes see in 'git log' output.

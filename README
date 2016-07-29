@@ -9,16 +9,15 @@ It seemed easy to convert my .m4 files to .md so I have a go.
 It is hard to install the latest version of Jekyll so I use
 the official docker container jekyll/jekyll.
 
-
   Getting started
 
-1. Install base tools:
-make		GNU make utilite
-bash		Shell (or any other shell like sh)
-m4		GNU macroprocessor
-awk		GNU awk interpreter (gawk)
-ImageMagick	Image processing tool
+$ sudo apt-get install docker.io
+$ docker pull jekyll/jekyll:pages
+$ make serve
 
+  
+https://github.com/jekyll/docker/issues/109   - my feature request to include docs.
+27 jul 2016 somebody answered
 
 
 https://jekyllrb.com/help/
@@ -28,20 +27,52 @@ https://jekyllrb.com/help/
               https://github.com/bitprophet/alabaster
               
 
-https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
-https://github.com/jekyll/jekyll
-https://github.com/jekyll/jekyll-help
-https://github.com/jekyll/docker   - Official Docker container
 https://jekyllrb.com/
 http://jekyllrb.com/docs/structure/
-
 https://jekyllrb.com/docs/posts/  - how to insert images
    ![text description](/img/file.png)
 
-http://jekyllbootstrap.com/
+https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
+https://github.com/jekyll/jekyll
+https://github.com/jekyll/jekyll-help   - NO, just a Gem
+https://github.com/jekyll/docker   - Official Docker container
+   (jekyll (3.1.6)   )
+
+
+http://jekyllbootstrap.com/   - Rakefile with helpers
 
 
 see also (Jekyll recomended):  - cheap hosting (I don't need it- pages.github.com)
-https://www.nearlyfreespeech.net/
-also:
-https://beget.ru/free-hosting
+      https://www.nearlyfreespeech.net/
+      also:
+      https://beget.ru/free-hosting
+
+
+
+
+Jekill - 2011  (GitHub)
+Bootstrap- 2011 (Twitter)
+
+
+Bootstrap-  160 Kb CSS, 45 Kb .ttf glifs font, 69 Kb javascript, requires jQuery 
+
+http://blog.getbootstrap.com/  - Bootstrap 4 alpha
+
+
+https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
+Jekyll’s rules
+    Any file in the source directory is copied directly into the site directory.
+    Unless the file that has a YAML header. These files can make use of the Liquid templating language.
+    Unless the file is in _posts. These files build up a data object representing all of your site’s content that can be referenced when templating.
+    Posts can specify a permalink to generate a page at a different location than where the post resides in the source directory.
+
+
+
+HTML tag <nav> - ???   - Bootstrap justified-nav example
+
+http://getbootstrap.com/getting-started/#examples
+offcanvas example- may fit for me
+
+explore http://expo.getbootstrap.com/   - examples from people
+
+http://blog.getbootstrap.com/2015/12/08/bootstrap-4-alpha-2/  - Bootstrap 4 alpha 2 ???
