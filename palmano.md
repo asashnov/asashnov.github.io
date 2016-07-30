@@ -19,6 +19,12 @@ This is system sound editor for PalmOS 3.5 with on-screen piano keyboard.
 Notes typed on screen goes into one-track MIDI file which can be used
 as a system sound for alarms.
 
+Downloads
+---
+
+ - [Sources](/files/palmano.tgz)
+
+
 ## Links
  - [Palm devices manufacturer](http://palm.com/)
  - [search project for PalmOS on SourceForge](http://sourceforge.net/softwaremap/trove_list.php?form_cat=223)

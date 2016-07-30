@@ -1,22 +1,23 @@
 
- * GPG key- make sure you send it to servers (sure I did)
-
- * add 'Android' section (MePlayer, ColorNotes, MapsMe )
-
- * [done] switch to git
-
- * add EasyRepo to projects
-
- * publish Palmano source code
+ * TODO: add --drafts option to 'jekyll serve'
 
  * add NTFS_dir_INDEX to drafts
-
- * tetris - add separated page with a screenshots
 
  * add sloccount statistic to source archives, language and API description
 
  * review  books.m4 and Private/Notes/books.txt
  
+HTML tag <nav> - ???   - Bootstrap justified-nav example
+
+
+http://getbootstrap.com/getting-started/#examples
+offcanvas example- may fit for me
+
+explore http://expo.getbootstrap.com/   - examples from people
+
+http://blog.getbootstrap.com/2015/12/08/bootstrap-4-alpha-2/  - Bootstrap 4 alpha 2 ???
+
+
  - [World of Spectrum](http://www.worldofspectrum.org/)
     The official world archive for the Sinclair ZX Spectrum
 really ????????/ oficial ????????
@@ -47,4 +48,12 @@ http://ubuntuforums.org/showthread.php?t=189192   - Improve performance in Ubunt
 
 
 
+
+https://github.com/jekyll/docker/issues/109   - my feature request to include docs.
+27 jul 2016 somebody answered
+
+see also (Jekyll recomended):  - cheap hosting (I don't need it- pages.github.com)
+      https://www.nearlyfreespeech.net/
+      also:
+      https://beget.ru/free-hosting
 

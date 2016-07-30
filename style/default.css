@@ -39,11 +39,6 @@ div#footer {
 	padding: 1em;                 */
 }
 
-.pict {
-    float: right;
-    padding: 1em;
-  }
-
 ul.menu {
 	margin-top: 0px;
 	margin-left: 0px;
@@ -72,7 +67,11 @@ td {
 :visited { color: #609; background: transparent }
 a:active { color: #C00; background: transparent }
 
-img { border: 0px; }
+img {
+ border: 0px;
+ float: right;
+ padding: 1em;
+}
 
 
 

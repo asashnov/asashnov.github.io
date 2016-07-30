@@ -3,6 +3,7 @@ title: windows
 description: Windows
 keywords: win32 software for windows winXP soft
 layout: default
+category: platforms
 ---
  
 Software for windows

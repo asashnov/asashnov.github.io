@@ -3,6 +3,7 @@ title: about long (ru)
 description: Про меня
 keywords: aboutme НГТУ Новосибирск Спектрум
 layout: default
+category: about
 ---
 
 Привет!

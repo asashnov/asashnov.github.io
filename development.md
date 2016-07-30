@@ -3,6 +3,7 @@ title: programming
 description: Links to interesting sites for development
 keywords: game development links
 layout: default
+category: about
 ---
  
 Programming
