@@ -28,3 +28,9 @@ Downloads
  - <a href="files/zx_real_tape2tap-0.94.tar.gz">zx_real_tape2tap-0.94.tar.gz (68 Kb)</a>  
 
 Platform: Linux
+
+
+Links
+---
+ - [Emulate ZX](http://emulate.narod.ru/)
+

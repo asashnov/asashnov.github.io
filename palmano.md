@@ -25,6 +25,13 @@ Downloads
  - [Sources](/files/palmano.tgz)
 
 
+Contribution
+---
+
+https://github.com/asashnov/palmano
+
+
+
 ## Links
  - [Palm devices manufacturer](http://palm.com/)
  - [search project for PalmOS on SourceForge](http://sourceforge.net/softwaremap/trove_list.php?form_cat=223)

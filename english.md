@@ -1,5 +1,5 @@
 ---
-title: getting know English
+title: English
 description: Here are my suggestions how to get started with English
 keywords: English
 layout: default
