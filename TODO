@@ -1,3 +1,5 @@
+ * add lang= {{ $(page.lang) }}   to conform W3C standard (lang: en  in default config,  ru in some pages )
+
 
  * TODO: add --drafts option to 'jekyll serve'
 
