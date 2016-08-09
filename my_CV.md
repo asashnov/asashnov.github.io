@@ -4,16 +4,16 @@ description: my CV
 keywords: Alexander Sashnov CV software developer C++ Linux Python
 layout: default
 ---
- 
+
 my CV
 -
 
-[http://ru.linkedin.com/pub/alexander-sashnov/1/370/819/|at LinkedIn]
+[at MoiKrug.ru](http://sashnov.moikrug.ru/)
 
-[http://stackoverflow.com/users/1487936/asashnov|at StackExchange]
+[at LinkedIn](http://ru.linkedin.com/pub/alexander-sashnov/1/370/819/)
 
-[https://github.com/asashnov|My GitHub profile]
+[at StackExchange](http://stackoverflow.com/users/1487936/asashnov)
 
-[https://novosibirsk.hh.ru/applicant/resumes/view?resume=5ffd34f2ff00fe2b6c0039ed1f4a447872566e|at HeadHunter.ru]
+[My GitHub profile](https://github.com/asashnov)
 
-[http://sashnov.moikrug.ru/|at MoiKrug.ru]
+[at HeadHunter.ru](https://novosibirsk.hh.ru/applicant/resumes/view?resume=5ffd34f2ff00fe2b6c0039ed1f4a447872566e)
