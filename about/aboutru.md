@@ -161,4 +161,4 @@ Links
  - [World of Spectrum](http://www.worldofspectrum.org/)
     The official world archive for the Sinclair ZX Spectrum
 
- - [Virtual TR-DOS](http://trd.speccy.cz/)
+ - [Virtual TR-DOS](https://vtrd.in/)
