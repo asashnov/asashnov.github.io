@@ -1,6 +1,28 @@
  * add lang= {{ $(page.lang) }}   to conform W3C standard (lang: en  in default config,  ru in some pages )
 
 
+? https://html5up.net/editorial
+
+Jekil- include, all in one.
+ <h1>
+   <2>
+     <h3 class="ru,en"    - JavaScript- hide/show
+Расположение кружком, или вкладками
+
+
+
+Replace   spreadfirefox.com   -> firefox.com
+
+
+Validators - comment  (uncomment when fixed)
+
+I work at Jetico Inc, Oy as a software developer.   - update, I'm a freelance developer.
+
+Copyright @ 2001 - 2016 Alexander Sashnov   - to 2023
+
+
+
+
  * TODO: add --drafts option to 'jekyll serve'
 
  * add NTFS_dir_INDEX to drafts
@@ -8,12 +30,33 @@
  * add sloccount statistic to source archives, language and API description
 
  * review  books.m4 and Private/Notes/books.txt
- 
+
 HTML tag <nav> - ???   - Bootstrap justified-nav example
+
+ * split programming.md to cpp.md  and python.md
+
+
+photo on front page:  me on the stairs of Technopark
+
+zx.md page: add picture of my spectrum
+
+http://zxtune.bitbucket.org/:
+    join to the VK and facebook groups, like it
+
+
+Old (not active now) links may be published like this:
+http://web.archive.org/web/20120605162142/http://www.soft-portal.com/echo.html
 
 
 http://getbootstrap.com/getting-started/#examples
 offcanvas example- may fit for me
+
+Adaptive CSS layout:
+https://habrahabr.ru/company/yandex/blog/307064/
+  see also: http://getskeleton.com/  - minimal CSS framework
+  video: https://habrahabr.ru/post/51843/
+
+
 
 explore http://expo.getbootstrap.com/   - examples from people
 
@@ -25,6 +68,10 @@ http://blog.getbootstrap.com/2015/12/08/bootstrap-4-alpha-2/  - Bootstrap 4 alph
 really ????????/ oficial ????????
 
  * check *timeline:* headers with dates in source archives.
+
+
+ZX - add link to interesting project:   http://divideo.zxdemo.org/
+
 
 
 BEGIN:VTODO
@@ -59,3 +106,6 @@ see also (Jekyll recomended):  - cheap hosting (I don't need it- pages.github.co
       also:
       https://beget.ru/free-hosting
 
+
+Project pages: https://help.github.com/articles/creating-project-pages-manually/
+gh-pages branch at 'http(s)://<username>.github.io/<projectname>
