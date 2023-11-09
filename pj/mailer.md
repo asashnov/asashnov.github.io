@@ -24,8 +24,8 @@ computer in the lab at the university and read/reply at home.
 откуда придется.
 
 ## Downloads
- - <a href="files/mailer.zip">mailer.zip (332 Kb)</a>  - Portable win32 .exe
- - <a href="files/mailer-src.zip">mailer-src.zip (44 Kb)</a> - sources (Borland C++ Builder 5)
+ - <a href="../files/mailer.zip">mailer.zip (332 Kb)</a>  - Portable win32 .exe
+ - <a href="../files/mailer-src.zip">mailer-src.zip (44 Kb)</a> - sources (Borland C++ Builder 5)
 
   Note: exacutable is compressed by **PECompact**
 

@@ -25,7 +25,7 @@ you have to open you display and monitor settings and choose 16-bit colors mode.
 
 Downloads
 ---
- - <a href="files/ddungeon-exe.zip">ddungeon-exe.zip (316 Kb)</a>
+ - <a href="../files/ddungeon-exe.zip">ddungeon-exe.zip (316 Kb)</a>
     Windows executable and data<br />
- - <a href="files/ddungeon-src.zip">ddungeon-src.zip (28 Kb)</a>
+ - <a href="../files/ddungeon-src.zip">ddungeon-src.zip (28 Kb)</a>
      Source and project for Borland C++ Builder 5<br />

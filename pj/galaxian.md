@@ -25,7 +25,7 @@ Platform: Windows, DirectX
 Downloads
 ---
 
- - <a href="files/galaxian-exe.zip">galaxian-exe.zip (500 Kb)</a>
+ - <a href="../files/galaxian-exe.zip">galaxian-exe.zip (500 Kb)</a>
     win32 executable and art works
- - <a href="files/galaxian-1.1-src.zip">galaxian-1.1-src.zip (20 Kb)</a>
+ - <a href="../files/galaxian-1.1-src.zip">galaxian-1.1-src.zip (20 Kb)</a>
     source code

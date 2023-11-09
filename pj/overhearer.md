@@ -22,10 +22,10 @@ Overhearer
 запись уже идет и вы измените настройки, на текущую запись они не повлияют.
  
 ## Downloads
- - <a href="files/overhearer-exe.zip">overhearer-exe.zip
+ - <a href="../files/overhearer-exe.zip">overhearer-exe.zip
   (312 Kb)</a>   - executable for win32
 
- - <a href="files/overhearer-src.zip">overhearer-src.zip
+ - <a href="../files/overhearer-src.zip">overhearer-src.zip
   (12 Kb)</a>   - source code for Builder C++ 5
   
  

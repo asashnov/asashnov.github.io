@@ -22,7 +22,7 @@ as a system sound for alarms.
 Downloads
 ---
 
- - [Sources](/files/palmano.tgz)
+ - [Sources](../files/palmano.tgz)
 
 
 Contribution

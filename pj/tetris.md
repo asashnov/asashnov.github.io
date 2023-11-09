@@ -24,4 +24,4 @@ Platform: DOS
 Downloads
 ---
 
- - <a href="files/tetris-dos.zip">tetris-dos.zip (120 Kb)</a>  
+ - <a href="../files/tetris-dos.zip">tetris-dos.zip (120 Kb)</a>

@@ -31,9 +31,9 @@ like Dizzy, LodeRunner and other 2D platformers.
 Downloads
 ---
 
- - <a href="files/leveditor.zip">leveditor.zip (416 Kb)</a>
+ - <a href="../files/leveditor.zip">leveditor.zip (416 Kb)</a>
      Windows executable and help file
- - <a href="files/levedit-src.zip">levedit-src.zip (32 Kb)</a>
+ - <a href="../files/levedit-src.zip">levedit-src.zip (32 Kb)</a>
     Source for C++ Builder 3
   
 Links
