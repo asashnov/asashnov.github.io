@@ -1,10 +1,10 @@
 # Site settings, available as {{ site.<> }}
 title: Alexander Sashnov's home page
-email: sashnov@ngs.ru
+email: asashnov@rambler.ru
 baseurl: ""
 url: "http://asashnov.github.io/"
 github_username:  asashnov
-current_year: 2016
+current_year: 2023
 
 # Build settings
 markdown: kramdown
