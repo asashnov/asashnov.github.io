@@ -1,11 +1,12 @@
   <head>
     <title>{{ page.title }} - The Sashnov Alexander's home page</title>
-    <style type="text/css" media="all">@import "style/default.css";</style>
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="shortcut icon" href="img/icon.png" />
-    <link rel="Alternate StyleSheet" href="style/black.css" type="text/css" title="Black" />
+    <link rel="stylesheet" href="{{ '/style/default.css' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" />
+    <link rel="shortcut icon" href="{{ '/img/icon.png' | relative_url }}" />
+    <link rel="Alternate StyleSheet" href="{{ '/style/black.css' | relative_url }}" type="text/css" title="Black" />
     <meta name="keywords" content="Sashnov, develop, programming, {{ page.keywords }}" />
     <meta charset="utf-8">
     <meta name="author" content="Sashnov Alexander" />
     <meta name="description" content="{{ page.description }}" />
   </head>
+
