@@ -9,7 +9,7 @@ category: platforms
 Linux
 --
 
-![Linux desktop](img/desktop_linux.png)
+![Linux desktop](/img/desktop_linux.png)
  
 I use Linux both at work (since 2003) and home (since 2006).
 The main advantage for me is that the software is free

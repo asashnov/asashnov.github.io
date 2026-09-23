@@ -8,7 +8,7 @@ category: platforms
  
 Software for windows
 --
-![Windows desktop](img/desktop_windows.jpg) 
+![Windows desktop](/img/desktop_windows.jpg)
  
   Since I've got permanent LAN internet connection (May 2006) I stop use windows at home also
 because the risk of getting exposed by malware was so high.

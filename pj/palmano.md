@@ -7,7 +7,7 @@ layout: default
 
 Palmano (Palm Piano)
 --
-![PalmOS system sound 'bird' in Palmano sound editor](img/palmano.png)
+![PalmOS system sound 'bird' in Palmano sound editor](/img/palmano.png)
 
 This project is still in pre-alpha stage.
 I started writting it in Aug 2003 (month after I get Palm m105) but
@@ -22,7 +22,7 @@ as a system sound for alarms.
 Downloads
 ---
 
- - [Sources](../files/palmano.tgz)
+ - [Sources](/files/palmano.tgz)
 
 
 Contribution

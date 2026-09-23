@@ -9,7 +9,7 @@ timeline: Jun 2001
 Danger Dungeon
 --
 
-![Danger dungeon screenshot](img/ddungeon.png) 
+![Danger dungeon screenshot](/img/ddungeon.png)
  
 This is my second playable game. It's written using Borland C++
 (like Galaxian) but uses NukeDX wrapper instead of using DirectX API directly.
@@ -25,7 +25,7 @@ you have to open you display and monitor settings and choose 16-bit colors mode.
 
 Downloads
 ---
- - <a href="../files/ddungeon-exe.zip">ddungeon-exe.zip (316 Kb)</a>
+ - <a href="files/ddungeon-exe.zip">ddungeon-exe.zip (316 Kb)</a>
     Windows executable and data<br />
- - <a href="../files/ddungeon-src.zip">ddungeon-src.zip (28 Kb)</a>
+ - <a href="files/ddungeon-src.zip">ddungeon-src.zip (28 Kb)</a>
      Source and project for Borland C++ Builder 5<br />

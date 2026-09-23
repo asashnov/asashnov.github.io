@@ -9,7 +9,7 @@ timeline: Jun 1999
 Tetris
 --
 
-![Tetris gameplay with single opponent](img/tetris.png)
+![Tetris gameplay with single opponent](/img/tetris.png)
 
 This was my first serious programm on PC. I made it at first course of
 the university in my spare time using computer in a lab (I did not own it yet).
@@ -24,4 +24,4 @@ Platform: DOS
 Downloads
 ---
 
- - <a href="../files/tetris-dos.zip">tetris-dos.zip (120 Kb)</a>
+ - <a href="files/tetris-dos.zip">tetris-dos.zip (120 Kb)</a>

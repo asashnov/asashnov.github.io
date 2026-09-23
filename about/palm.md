@@ -8,7 +8,7 @@ category: platforms
  
 PalmOS
 --
-![foto of my Palm m105](img/palm_photo.jpg) 
+![foto of my Palm m105](/img/palm_photo.jpg)
  
 I used to use <b>Palm m105</b> back in 2003-2008.
 Generally I used it for TODO, Calendar with reminders, Address Book, e-book reader,

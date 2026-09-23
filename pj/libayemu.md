@@ -9,7 +9,7 @@ category: projects
 libayemu
 --
 
-![xmms vtx format plugin](img/xmms-vtx.png) 
+![xmms vtx format plugin](/img/xmms-vtx.png)
 
 libayemu - is AY/YM sound chip emulation library written in ANSI C,
 so it can be ported to any OS with little or no change.

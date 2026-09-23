@@ -10,7 +10,7 @@ timeline: Aug 2000
 Galaxian
 --
 
-![Galaxian screenshot](img/galaxian.png) 
+![Galaxian screenshot](/img/galaxian.png)
  
 Simple cosmic shooter game written in Borland C++ Builder
 using pure DirectX API at the time I was getting myself familiar with the API in 2000. 
@@ -25,7 +25,7 @@ Platform: Windows, DirectX
 Downloads
 ---
 
- - <a href="../files/galaxian-exe.zip">galaxian-exe.zip (500 Kb)</a>
+ - <a href="files/galaxian-exe.zip">galaxian-exe.zip (500 Kb)</a>
     win32 executable and art works
- - <a href="../files/galaxian-1.1-src.zip">galaxian-1.1-src.zip (20 Kb)</a>
+ - <a href="files/galaxian-1.1-src.zip">galaxian-1.1-src.zip (20 Kb)</a>
     source code

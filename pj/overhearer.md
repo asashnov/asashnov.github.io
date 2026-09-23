@@ -7,7 +7,7 @@ layout: default
  
 Overhearer
 --
-![OverHearer in tray icon](img/over_h.gif) 
+![OverHearer in tray icon](/img/over_h.gif)
  
 Подслушивалка. При запуске сразу прячет свое окно и помещает свою иконку на 
 панель рядом с часами. При одинарном щелчке на ней включает запись с микрофона 
@@ -22,13 +22,12 @@ Overhearer
 запись уже идет и вы измените настройки, на текущую запись они не повлияют.
  
 ## Downloads
- - <a href="../files/overhearer-exe.zip">overhearer-exe.zip
+ - <a href="/files/overhearer-exe.zip">overhearer-exe.zip
   (312 Kb)</a>   - executable for win32
 
- - <a href="../files/overhearer-src.zip">overhearer-src.zip
+ - <a href="/files/overhearer-src.zip">overhearer-src.zip
   (12 Kb)</a>   - source code for Builder C++ 5
-  
- 
+
 Executable is relatively big because Borland's VCL library is staticaly compiled.
 If you have Builder C++ 5 installed it is better to download and compile
 from source to save your internet traffic.
