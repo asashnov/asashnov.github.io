@@ -1,9 +1,26 @@
 <div id="nav">
  <ul class="menu">
-    {% for page in site.pages %}
-      {% if page.title %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+
+  <li class="linkgroup">Main</li>
+    {% for p in site.pages %}
+      {% if p.title and p.dir == "/" %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
       {% endif %}
     {% endfor %}
+
+  <li class="linkgroup">Projects</li>
+    {% for p in site.pages %}
+      {% if p.title and p.dir == "/pj/" %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+
+  <li class="linkgroup">About</li>
+    {% for p in site.pages %}
+      {% if p.title and p.dir == "/about/" %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+
  </ul>
 </div>
